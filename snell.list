@@ -2,7 +2,6 @@
 🇭🇰Aper = snell, 209.146.104.24, 12345, psk=surgepro@666, version=4, reuse=true, tfo=true
 🇸🇬Eons = snell, 38.150.8.110, 12345, psk=surgepro@666, version=4, reuse=true, tfo=true
 🇸🇬Sharon = snell, 188.64.108.26, 53708, psk=Vo92wPVIsDWfpSs7, obfs=http, version=4, reuse=true, tfo=true
-🇸🇬SGP = snell, 188.64.108.77, 2345, psk=9MULKI4vcX7wh4kF, version=4, reuse=true
 🇯🇵Hatch = snell, hh.tuic.cc, 14250, psk=8QYc9zTowGlChZDIce684lNcD5k6DhE, obfs=http, version=4, reuse=true, block-quic=on
 🇺🇸Do = snell, 143.198.131.196, 2345, psk=zhetengyun, version=4, reuse=true, tfo=true
 🇺🇸SJC = snell, 37.123.192.212, 18646, psk=1Vcxlxu249Kfh5xN, version=4
