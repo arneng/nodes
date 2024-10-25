@@ -2,6 +2,7 @@
 🇭🇰Claw = snell, 8.217.64.135, 20927, psk=xeSe0Qr1tGDSzkOa, version=4
 🇺🇸LAX = snell, 154.17.225.164, 6553, psk=y4yC8vniDnEwO1v1, version=4
 🇺🇸Buffalo = snell, 192.210.233.115, 8443, psk=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, version=4, tfo=true, shadow-tls-password=9HdkagJd2HqYFhaR3ZqPBUXlKbhf2CV, shadow-tls-sni=gateway.icloud.com, shadow-tls-version=3
+🇺🇸Lam-US = snell, 167.253.152.104, 2345, psk=he8Cb8FqF0JlRalt, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204, obfs=http
 🇯🇵JP = snell, 48.210.56.220, 80, psk=ukl9o1uKOi1r1yBqwMXtk2sKNIS06z9M8UiFQ0kSTGk=, version=4, reuse=true, tfo=true, obfs=http, obfs-host=snell.v4.host
 🇯🇵OBFS = snell, 48.210.56.220, 80, psk=ukl9o1uKOi1r1yBqwMXtk2sKNIS06z9M8UiFQ0kSTGk=, version=4, reuse=true, obfs=http, obfs-host=snell.v4.host
 🇯🇵HH = snell, 150.107.200.156, 8964, psk=TS9TkUKBeoj4s4OSBZ52teQKhmQD8tkBUi13cVXLeNA=, version=4
