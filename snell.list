@@ -2,8 +2,10 @@
 🇭🇰Claw = snell, 8.217.64.135, 20927, psk=xeSe0Qr1tGDSzkOa, version=4
 🇭🇰HK1 = snell, 50.114.152.50, 2345, psk=0VwWwETKHynSDmjM, version=4, tfo=true
 🇭🇰HK2 = snell, 50.114.155.180, 2345, psk=0Pqy6YRQMEPY0IoF, version=4, tfo=true
-🇺🇸Lam-US = snell, 167.253.152.104, 2345, psk=he8Cb8FqF0JlRalt, version=4, reuse=true, test-url=http://cp.cloudflare.com/generate_204, obfs=http
+🇭🇰YxVM = snell, yxvmhk.revolver.ink, 24382, psk="JeNoyv5aIYgexMKFOkAKhQ==", version=4
+🇸🇬YxVM = snell, yxvmsg.revolver.ink, 24382, psk="OBL0jsWcjUCzv999p101yA==", version=4
 🇯🇵HH = snell, 150.107.200.156, 8964, psk=TS9TkUKBeoj4s4OSBZ52teQKhmQD8tkBUi13cVXLeNA=, version=4
+🇸🇬Oracle = snell, oraclesgp.revolver.ink, 24382, psk=hrqAjPi2rYZVCHNalBTgHA, version=4
 🇸🇬Lightsail = snell, 13.250.227.17, 14250, psk=/At7raylGJqsP04qAOfXw1c6UGscW3tZJ/6C3w5kG6w=, version=4, reuse=true
 🇸🇬Orange = snell, 103.195.189.166, 31927, psk=xq6nOQNGSzik1V41, version=4
 🇦🇪DXB = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
