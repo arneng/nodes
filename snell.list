@@ -1,5 +1,6 @@
 🇭🇰Claw = snell, 8.217.64.135, 20927, psk=xeSe0Qr1tGDSzkOa, version=4
-🇭🇰HK = snell, 50.114.152.50, 2345, psk=0VwWwETKHynSDmjM, version=4, tfo=true
+🇭🇰HK1 = snell, 50.114.152.50, 2345, psk=0VwWwETKHynSDmjM, version=4, tfo=true
+🇭🇰HK2 = snell, 82.152.160.26, 2345, psk=0VwWwETKHynSDmjM, version=4, tfo=true
 🇭🇰YxVM = snell, yxvmhk.revolver.ink, 24382, psk="JeNoyv5aIYgexMKFOkAKhQ==", version=4
 🇸🇬YxVM = snell, yxvmsg.revolver.ink, 24382, psk="OBL0jsWcjUCzv999p101yA==", version=4
 🇯🇵HH = snell, 150.107.200.156, 8964, psk=TS9TkUKBeoj4s4OSBZ52teQKhmQD8tkBUi13cVXLeNA=, version=4
