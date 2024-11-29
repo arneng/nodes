@@ -1,8 +1,11 @@
 🇭🇰Claw = snell, 8.217.64.135, 20927, psk=xeSe0Qr1tGDSzkOa, version=4
 🇭🇰YxVM = snell, yxvmhk.revolver.ink, 24382, psk="JeNoyv5aIYgexMKFOkAKhQ==", version=4
+🇭🇰HK = snell, 42.2.93.63, 34992, psk=M8DxVDh1pHRJ49dW, version=4, reuse=true
 🇸🇬YxVM = snell, yxvmsg.revolver.ink, 24382, psk="OBL0jsWcjUCzv999p101yA==", version=4
 🇯🇵HH = snell, 150.107.200.156, 8964, psk=TS9TkUKBeoj4s4OSBZ52teQKhmQD8tkBUi13cVXLeNA=, version=4
+🇯🇵Sharon = snell, 157.254.199.23, 2345, psk=B7SEPtbXveNvGMJR, version=4, tfo=true, test-url=http://i.ytimg.com/generate_204, block-quic=on
 🇸🇬Oracle = snell, oraclesgp.revolver.ink, 24382, psk=hrqAjPi2rYZVCHNalBTgHA, version=4
 🇸🇬Orange = snell, 103.195.189.166, 31927, psk=xq6nOQNGSzik1V41, version=4
 🇦🇪DXB = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
 🇳🇱AMS = snell, oracle.ams.as917.net, 6489, psk=0iG4tLhvVFz2bNqs, version=4
+🇮🇳BOM = snell, oracle.bom.as917.net, 2345, psk=EsY6yFgo2YZzpBBP, version=4
