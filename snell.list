@@ -3,7 +3,6 @@
 🇭🇰HK = snell, 42.2.93.63, 34992, psk=M8DxVDh1pHRJ49dW, version=4, reuse=true
 🇨🇳TW = snell, 35.206.232.168, 32133, psk="R5mMRp5/SQWQ8A8nVy4bNw==", version=4
 🇦🇺AU = snell, 35.189.41.123, 32133, psk="R5mMRp5/SQWQ8A8nVy4bNw==", version=4
-🇺🇸Salmon = snell, 104.234.4.31, 13257, psk=ATMyuI8o6igPallqJ8JA, version=4, reuse=true, tfo=true,
 🇸🇬YxVM = snell, yxvmsg.revolver.ink, 24382, psk="OBL0jsWcjUCzv999p101yA==", version=4
 🇯🇵HH = snell, 150.107.200.156, 8964, psk=TS9TkUKBeoj4s4OSBZ52teQKhmQD8tkBUi13cVXLeNA=, version=4
 🇯🇵Sharon = snell, 157.254.199.23, 2345, psk=B7SEPtbXveNvGMJR, version=4, tfo=true, test-url=http://i.ytimg.com/generate_204, block-quic=on
