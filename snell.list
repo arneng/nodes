@@ -1,9 +1,5 @@
-🇨🇳TW = snell, 35.206.232.168, 32133, psk="R5mMRp5/SQWQ8A8nVy4bNw==", version=4
-🇦🇺AU = snell, 35.189.41.123, 32133, psk="R5mMRp5/SQWQ8A8nVy4bNw==", version=4
-🇯🇵Amazon = snell, 52.195.233.160, 2345, psk=fUY4s9zNcMYzmpmP, version=4, reuse=true, tfo=true
-🇸🇬Oracle = snell, oraclesgp.revolver.ink, 24382, psk=hrqAjPi2rYZVCHNalBTgHA, version=4
+🇩🇪OVH = snell, 57.129.62.62, 22446, psk=+C601UkVrfwx/7Hi, version=4
 🇸🇬Orange = snell, 103.195.189.166, 31927, psk=xq6nOQNGSzik1V41, version=4
-🇸🇬Lightsail = snell, 18.142.196.143, 14250, psk=8QYc9zTowGlChZDIce684lNcD5k6Dha, version=4, reuse=true
 🇸🇬SIN Oracle = snell, oracle.sin.as917.net, 22452, psk=ZLFF5kXeFDjRtlss, version=4
 🇺🇸SJC Oracle = snell, 64.181.244.112, 2344, psk=U1fIxsPnv8sgMfhe, version=4, reuse=true, tfo=true
 🇦🇪DXB = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
