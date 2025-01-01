@@ -1,6 +1,9 @@
 🇩🇪OVH = snell, 57.129.62.62, 22446, psk=+C601UkVrfwx/7Hi, version=4
 🇸🇬Orange = snell, 103.195.189.166, 31927, psk=xq6nOQNGSzik1V41, version=4
 🇸🇬SIN Oracle = snell, oracle.sin.as917.net, 22452, psk=ZLFF5kXeFDjRtlss, version=4
+🇸🇬𝑿𝑺𝑿-𝑺𝒏𝒆𝒍𝒍 = snell, 103.213.247.102, 6153, psk=ap5201314, version=4, ip-version=prefer-v4
 🇺🇸SJC Oracle = snell, 64.181.244.112, 2344, psk=U1fIxsPnv8sgMfhe, version=4, reuse=true, tfo=true
+🇺🇸SEA (Vultr) = snell, 66.42.77.181, 2345, psk=pKyRmyWrDfA4OlBY, version=4
+🇸🇬Sg2Snell = snell, 129.150.61.95,14682, psk=zWYeVBzr1xtLggZaxrjPSwwHeUwzo9C,version=4
 🇦🇪DXB = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
 🇮🇳BOM = snell, oracle.bom.as917.net, 2345, psk=EsY6yFgo2YZzpBBP, version=4
