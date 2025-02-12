@@ -3,8 +3,6 @@
 🇸🇬Oracle-Sg = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4, tfo=true, reuse=true, ecn=true
 🇸🇬Snell-sg2 = snell, s2.3ab.in, 2345, psk=6L4nGby8vj2Va1qF, version=4
 🇸🇬LegendVPS = snell, 31.58.142.213, 2345, psk=fCOc0kU8OkjO0WH1, version=4, tfo=true, reuse=true, ecn=true
-🇺🇸SEA (Vultr) = snell, 66.42.77.181, 2345, psk=pKyRmyWrDfA4OlBY, version=4
 🇺🇸Backwaves LAX = snell, 185.255.198.41, 2345, psk=gP24sMupijWvMKC5, version=4, tfo=true, reuse=true, ecn=true
 🇯🇵Clawcloud = snell, 47.79.84.105, 2345, psk=7LDISy2HZV0XkYW8, version=4, reuse=true
-🇭🇰ISIF = snell, 46.232.106.16, 3218, psk=tQVK2updzDtVaYE2, version=4, tfo=true, reuse=true, ecn=true
 🇦🇪DXB = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
