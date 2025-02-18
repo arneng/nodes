@@ -1,11 +1,11 @@
 🇸🇬Orange = snell, 103.195.189.166, 31927, psk=xq6nOQNGSzik1V41, version=4
-🇸🇬SIN Oracle = snell, oracle.sin.as917.net, 22452, psk=ZLFF5kXeFDjRtlss, version=4
-🇸🇬Oracle-Sg = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4, tfo=true, reuse=true, ecn=true
-🇸🇬Snell-sg2 = snell, s2.3ab.in, 2345, psk=6L4nGby8vj2Va1qF, version=4
-🇺🇸Backwaves LAX = snell, 185.255.198.41, 2345, psk=gP24sMupijWvMKC5, version=4, tfo=true, reuse=true, ecn=true
-🇯🇵Clawcloud = snell, 47.79.84.105, 2345, psk=7LDISy2HZV0XkYW8, version=4, reuse=true
+🇸🇬Sin Oracle = snell, oracle.sin.as917.net, 22452, psk=ZLFF5kXeFDjRtlss, version=4
+🇸🇬Oracle SG = snell, 129.150.61.95, 2345, psk=6L4nGby8vj2Va1qF, version=4, tfo=true, reuse=true, ecn=true
+🇸🇬Snell SG = snell, s2.3ab.in, 2345, psk=6L4nGby8vj2Va1qF, version=4
+🇺🇸LAX = snell, 185.255.198.41, 2345, psk=gP24sMupijWvMKC5, version=4, tfo=true, reuse=true, ecn=true
+🇯🇵ClawCloud = snell, 47.79.84.105, 2345, psk=7LDISy2HZV0XkYW8, version=4, reuse=true
 🇦🇪DXB = snell, oracle.dxb.as917.net, 18845, psk=nJNIUmKCWvCLzzP6, version=4
-🇭🇰Acck HKVV = snell, 45.192.240.62, 2345, psk=cE5B6xP3Wn1pjDoc, version=4, reuse=true, tfo=true
-🇨🇳TW = snell, 45.196.239.170, 2345, psk=EQcosEwI2TWKZGET, version=4, tfo=true, reuse=true, ecn=true
+🇭🇰Acck= snell, 45.192.240.62, 2345, psk=cE5B6xP3Wn1pjDoc, version=4, reuse=true, tfo=true
 🇭🇰Lite = snell, 62.192.175.13, 2345, psk=EUOQoLgdeAZE0fgF, version=4, tfo=true, reuse=true
 🇭🇰BGP = snell, 140.235.36.89, 2345, psk=oBqgod5Ot5ImsqqU, version=4, tfo=true, reuse=true
+🇨🇳TW = snell, 45.196.239.170, 2345, psk=EQcosEwI2TWKZGET, version=4, tfo=true, reuse=true, ecn=true
