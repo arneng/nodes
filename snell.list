@@ -8,3 +8,4 @@
 🇭🇰Lite = snell, 62.192.175.13, 2345, psk=EUOQoLgdeAZE0fgF, version=4, tfo=true, reuse=true
 🇨🇳TW = snell, 45.196.239.170, 2345, psk=EQcosEwI2TWKZGET, version=4, tfo=true, reuse=true, ecn=true
 🇸🇬 Legend = snell, 2a14:7dc0:100:101:101::213, 31291, psk = 9ZHkRmWpBp9ZEbNANZFC, version = 4, reuse = true
+🇭🇰 BV214 = snell, zf-cm.bgblwow.org, 58592, psk = 0pR3f4wi6zY5fGnI74v7, version = 4, reuse = true
